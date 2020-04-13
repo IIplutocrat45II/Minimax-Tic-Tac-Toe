@@ -113,6 +113,8 @@ ENV/
 env.bak/
 venv.bak/
 
+OpenSans-Regular.ttf
+
 # Spyder project settings
 .spyderproject
 .spyproject
